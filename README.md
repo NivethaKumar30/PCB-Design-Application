@@ -1,6 +1,6 @@
 # PCB-Design-Application
 # Aim:
-To implement a PCB Design Application .
+To Design a PCB Design Application .
 # Software required
 Eagle
 
