@@ -33,6 +33,5 @@ A touch sensor circuit is an electrical component that detects the presence or p
 ### Layout diagram
 ![image](https://github.com/NivethaKumar30/PCB-Design-Application/assets/119559844/32c5a892-d4d3-4393-a5f6-819a9db52ee7)
 
-# Result
-Thus , the touch sensor circuit's schmetic diagram and layout diagram is designed successfully by using the eagle software.
+ Result: Thus , the touch sensor circuit's schmetic diagram and layout diagram is designed successfully by using the eagle software.
 
